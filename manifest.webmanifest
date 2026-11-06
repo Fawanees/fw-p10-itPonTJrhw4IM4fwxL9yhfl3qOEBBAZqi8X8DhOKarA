@@ -1,0 +1,20 @@
+{
+  "name": "فوانيس",
+  "short_name": "فوانيس",
+  "description": "محاكاة أول تشغيل · فوانيس · النموذج ١٠",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0F2A",
+  "theme_color": "#0B0F2A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
